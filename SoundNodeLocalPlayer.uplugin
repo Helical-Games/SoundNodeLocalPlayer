@@ -1,0 +1,25 @@
+{
+  "FileVersion" : 3,
+  "Version" : 1,
+  "VersionName" : "0.1",
+  "FriendlyName" : "SoundNodeLocalPlayer",
+  "Description" : "Recreates sound node from ShooterGame. Choose different branch for sounds attached to locally controlled player.",
+  "Category" : "Sounds",
+  "CreatedBy" : "Ringeril",
+  "CreatedByURL" : "https://github.com/Ringeril/",
+  "DocsURL" : "",
+  "MarketplaceURL" : "",
+  "SupportURL" : "",
+  "EnabledByDefault" : true,
+  "CanContainContent" : false,
+  "IsBetaVersion" : false,
+  "Installed" : true,
+  "Modules" :
+  [
+    {
+      "Name" : "SoundNodeLocalPlayer",
+      "Type" : "Runtime",
+      "LoadingPhase" : "PreDefault"
+    }
+  ]
+}
